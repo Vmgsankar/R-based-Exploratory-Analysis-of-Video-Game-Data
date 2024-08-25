@@ -11,8 +11,6 @@ Welcome to the Exploratory Data Analysis (EDA) of Video Game Sales! This project
 - [Insights](#insights)
 - [Key Recommendations](#key-recommendations)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
